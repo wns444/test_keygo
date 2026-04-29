@@ -52,6 +52,6 @@ async def health_check():
 
 
 # Include routers
-app.include_router(router, prefix="/api/v1")
+app.include_router(router)
 
 logger.info(f"Application {settings.app_name} configured successfully")
