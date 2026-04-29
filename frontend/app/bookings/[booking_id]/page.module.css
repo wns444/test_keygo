@@ -1,0 +1,33 @@
+.main {
+  min-height: 100vh;
+  background-color: #f9f9f9;
+  padding: 0;
+}
+
+.header {
+  background-color: #1976d2;
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+  margin: 0 0 10px 0;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.bookingInfo {
+  margin: 0;
+  font-size: 16px;
+  opacity: 0.9;
+}
+
+.bookingInfo code {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+}
