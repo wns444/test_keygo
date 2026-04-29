@@ -45,7 +45,7 @@ export default function Home() {
           <ul>
             <li><Link href="https://github.com/wns444/test_keygo/blob/master/README.md" className={styles.link}>Project README</Link></li>
             <li><Link href="https://github.com/wns444/test_keygo/blob/master/backend/README.md" className={styles.link}>Backend Documentation</Link></li>
-            <li><Link href="https://github.com/your-repo/blob/master/frontend/README.md" className={styles.link}>Frontend Documentation</Link></li>
+            <li><Link href="https://github.com/wns444/test_keygo/blob/master/frontend/README.md" className={styles.link}>Frontend Documentation</Link></li>
           </ul>
         </div>
       </div>
